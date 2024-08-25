@@ -1,0 +1,18 @@
+body,
+html,
+select,
+.ant-input,
+.ant-select,
+.ant-select-selector,
+.ant-tabs,
+.ag-theme-quartz {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+}
+
+.ag-theme-quartz {
+  --ag-grid-size: 4px; /* very compact */
+}
+.ag-center-cols-viewport {
+  min-height: unset !important;
+}
